@@ -1,0 +1,4 @@
+/*.project
+/*.pydevproject
+/src/djangotest/djangotest/*.pyc
+/build
